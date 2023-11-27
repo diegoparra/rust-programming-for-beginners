@@ -17,6 +17,8 @@ fn last_name(n: String) {
 }
 
 fn main() {
+
+    let name = "diego Parra".to_string();
     first_name("Diego".to_string());
     last_name("Parra".to_string());
 }
